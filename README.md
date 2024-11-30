@@ -1,33 +1,41 @@
 [![bg][banner]][website]
 
-<h1 align="center">Welcome to News App! 📰</h1>
+<h1 align="center">Welcome to My Profile! 🌟</h1>
+<h3 align="center">I'm Ahmed Yasser, a passionate Flutter Developer 🚀</h3>
 
 <p align="center">
-    I'm Ahmed Yasser, a Flutter Developer. Currently working on an innovative **News App** to bring the latest news with custom notifications and multiple language support.
+    I'm currently working on an innovative **News App**. The app brings you the latest news with custom notifications and multi-language support, using the latest technologies and best practices.
 </p>
 
 ---
 
-## Features of the App 🌟
-- **News Categories**: Explore news in various categories like Sports, Politics, Technology, Entertainment, and more.
-- **Custom Notifications**: Get personalized notifications based on your interests and preferences.
-- **Multi-language Support**: Switch between multiple languages to access news in your preferred language.
+## 🛠️ Technologies & Skills
+
+**Languages & Frameworks I Work With:**
+- **Dart**: The primary programming language for Flutter.
+- **Flutter**: Cross-platform mobile development with clean and beautiful UI.
+- **C++**: Fundamental knowledge in system-level programming.
+- **JavaScript**: For dynamic and interactive web content.
+- **HTML/CSS**: Structuring and styling websites.
+  
+**Tools & Technologies:**
+- **Firebase**: Real-time databases and authentication.
+- **REST APIs**: Fetching data from external sources and enhancing app functionality.
+- **Git**: Version control for managing code collaboration.
+- **GitHub**: Hosting projects and managing repositories.
+- **OOP (Object-Oriented Programming)**: Strong understanding of OOP principles.
 
 ---
 
-## Languages & Technologies I Have Learned 🧑‍💻
-- **Dart**: The primary programming language used in Flutter.
-- **JavaScript**: For front-end web development.
-- **HTML/CSS**: For designing web interfaces.
-- **Firebase**: For data management and authentication.
-- **REST APIs**: For server communication and data fetching.
-- **Git**: For version control and collaboration on projects.
-- **GitHub**: For hosting repositories and managing code versions.
-- **API Integration**: Skilled in consuming and integrating external APIs to enhance app functionality.
+## 📱 My Projects
+
+### **News App 📰**
+- **Description**: A mobile app that brings the latest news from various categories like Sports, Technology, Politics, and Entertainment. It provides real-time notifications and multi-language support.
+- **Technologies Used**: Flutter, Dart, Firebase, REST APIs.
 
 ---
 
-## Connect with Me 🌐
+## 📞 Connect with Me
 
 <p align="center">
     <a href="https://linkedin.com/in/ahmedyasser" alt="LinkedIn">
@@ -44,10 +52,17 @@
 
 ---
 
-## About Me 🌟
-- 💻 Flutter Developer with 1 year of experience.
-- 🔭 Currently working on **News App** for delivering the latest news with personalized features.
-- 🌱 Learning advanced techniques to improve app performance and user engagement.
+## 👨‍💻 About Me
+
+- 💼 **Experience**: 1 year of Flutter development experience.
+- - 🔭 Currently working on **Todo App** for task management.
+- 🔭 **Current Work**: I’m working on a **News App** that will bring you the latest headlines, breaking news, and notifications.
+- 🌱 **Learning**: Constantly improving my skills in Flutter, OOP, API integration, and more advanced development techniques.
+
+---
+
+## ⭐️ Fun Fact
+I'm always open to new opportunities and collaborations! Feel free to reach out to me.
 
 ---
 
