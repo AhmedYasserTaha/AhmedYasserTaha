@@ -38,15 +38,13 @@
 ## 📞 Connect with Me
 
 <p align="center">
-    <a href="https://linkedin.com/in/ahmedyasser" alt="LinkedIn">
+    <a href="https://www.linkedin.com/in/ahmed-yasser-913678335/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-    <a href="https://hackerrank.com/ahmedyasser" alt="HackerRank">
-        <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=for-the-badge&logo=hackerrank" /></a>
     <a href="https://stackoverflow.com/users/12345678/ahmed-yasser" alt="StackOverflow">
         <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-    <a href="https://instagram.com/ahmedyasser" alt="Instagram">
+    <a href="https://www.instagram.com/a_yasser10/">
         <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="https://ahmedyasser.me" alt="Website">
+    <a href="https://web.whatsapp.com/">
         <img src="https://img.shields.io/badge/-ahmedyasser.me-242424?style=for-the-badge&logo=circle&logoColor=White" /></a>
 </p>
 
@@ -55,7 +53,7 @@
 ## 👨‍💻 About Me
 
 - 💼 **Experience**: 1 year of Flutter development experience.
-- - 🔭 Currently working on **Todo App** for task management.
+- 🔭 Currently working on **Todo App** for task management.
 - 🔭 **Current Work**: I’m working on a **News App** that will bring you the latest headlines, breaking news, and notifications.
 - 🌱 **Learning**: Constantly improving my skills in Flutter, OOP, API integration, and more advanced development techniques.
 
