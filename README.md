@@ -1,4 +1,4 @@
-[![bg](https://via.placeholder.com/1200x400/000000/FFFFFF?text=Ahmed+Yasser's+GitHub)](https://ahmedyasser.me)
+[![bg](https://via.placeholder.com/1200x400/000000/FFFFFF?text=%E2%80%98Ahmed+Yasser%27s+GitHub%E2%80%99+%7C+Glowing+Tech+Text)](https://ahmedyasser.me)
 
 <h1 align="center">Welcome to My Profile! 🌟</h1>
 <h3 align="center">I'm Ahmed Yasser, a passionate Flutter Developer 🚀</h3>
