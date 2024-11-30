@@ -28,6 +28,7 @@
 ## About Me 🌟
 - 💻 Flutter Developer with 1 year of experience.
 - 🔭 Currently working on **Todo App** for task management.
+- 🔭 Currently working on **News App** for delivering the latest news with personalized features.
 - 🌱 Learning advanced techniques to enhance app performance and user engagement.
 
 ---
