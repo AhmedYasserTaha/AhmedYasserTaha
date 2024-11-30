@@ -1,10 +1,29 @@
 [![bg][banner]][website]
 
-<h1 align="center">Welcome! 👋</h1>
+<h1 align="center">Welcome to News App! 📰</h1>
 
 <p align="center">
-    I'm Ahmed Yasser, a Flutter Developer passionate about building innovative apps to improve productivity and user experience.
+    I'm Ahmed Yasser, a Flutter Developer. Currently working on an innovative **News App** to bring the latest news with custom notifications and multiple language support.
 </p>
+
+---
+
+## Features of the App 🌟
+- **News Categories**: Explore news in various categories like Sports, Politics, Technology, Entertainment, and more.
+- **Custom Notifications**: Get personalized notifications based on your interests and preferences.
+- **Multi-language Support**: Switch between multiple languages to access news in your preferred language.
+
+---
+
+## Languages & Technologies I Have Learned 🧑‍💻
+- **Dart**: The primary programming language used in Flutter.
+- **JavaScript**: For front-end web development.
+- **HTML/CSS**: For designing web interfaces.
+- **Firebase**: For data management and authentication.
+- **REST APIs**: For server communication and data fetching.
+- **Git**: For version control and collaboration on projects.
+- **GitHub**: For hosting repositories and managing code versions.
+- **API Integration**: Skilled in consuming and integrating external APIs to enhance app functionality.
 
 ---
 
@@ -27,11 +46,10 @@
 
 ## About Me 🌟
 - 💻 Flutter Developer with 1 year of experience.
-- 🔭 Currently working on **Todo App** for task management.
 - 🔭 Currently working on **News App** for delivering the latest news with personalized features.
-- 🌱 Learning advanced techniques to enhance app performance and user engagement.
+- 🌱 Learning advanced techniques to improve app performance and user engagement.
 
 ---
 
-[banner]: https://via.placeholder.com/1200x400?text=Welcome+to+Ahmed+Yasser's+Profile
+[banner]: https://via.placeholder.com/1200x400?text=Welcome+to+Ahmed+Yasser's+News+App
 [website]: https://ahmedyasser.me
