@@ -10,21 +10,21 @@
 ## 🛠️ Technologies & Skills
 
 **Languages & Frameworks I Work With:**
-- ![Flutter](https://img.icons8.com/ios/50/000000/flutter.png) Flutter
-- ![Dart](https://img.icons8.com/ios/50/000000/dart.png) Dart
+- ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) Flutter
+- ![Dart](https://img.icons8.com/color/48/000000/dart.png) Dart
 - ![Android](https://img.icons8.com/color/48/000000/android.png) Android
-- ![iOS](https://img.icons8.com/ios/50/000000/ios-logo.png) iOS
-- ![C++](https://img.icons8.com/ios/50/000000/c-plus-plus-logo.png) C++
+- ![iOS](https://img.icons8.com/color/48/000000/ios-logo.png) iOS
+- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
 
 ---------
 **Concepts:**
- - ![OOP](https://img.icons8.com/ios/50/000000/idea.png) OOP (Object-Oriented Programming)
- - ![API](https://img.icons8.com/ios/50/000000/api.png) API
+ - ![OOP](https://img.icons8.com/color/48/000000/idea.png) OOP (Object-Oriented Programming)
+ - ![API](https://img.icons8.com/color/48/000000/api.png) API
 
 **Tools & Technologies:**
-- ![Firebase](https://img.icons8.com/ios/50/000000/firebase.png) Firebase
-- ![Git](https://img.icons8.com/ios/50/000000/git.png) Git
-- ![GitHub](https://img.icons8.com/ios/50/000000/github.png) GitHub
+- ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) Firebase
+- ![Git](https://img.icons8.com/color/48/000000/git.png) Git
+- ![GitHub](https://img.icons8.com/color/48/000000/github.png) GitHub
 
 ---
 
