@@ -11,7 +11,7 @@
 
 **Languages & Frameworks I Work With:**
 - ![Flutter](https://img.icons8.com/ios/50/000000/flutter.png) Flutter
-- ![Dart](https://img.icons8.com/ios/50/000000/dart.png) Dart
+- ![Dart]([https://img.icons8.com/ios/50/000000/dart.png](https://www.fluttericon.com/logo_dart_192px.svg)) Dart
 - ![Android](https://img.icons8.com/color/48/000000/android.png) Android
 - ![iOS](https://img.icons8.com/ios/50/000000/ios-logo.png) iOS
 - ![C++](https://img.icons8.com/ios/50/000000/c-plus-plus-logo.png) C++
