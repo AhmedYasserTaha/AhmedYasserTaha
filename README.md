@@ -43,7 +43,7 @@
 ## 👨‍💻 About Me
 
 - 💼 **Experience**: 1 year of Flutter development experience.    
-- 📚 **Learning**: Constantly improving my skills in Flutter, OOP, API integration, and more advanced development techniques.  
+
 
 ---
 
