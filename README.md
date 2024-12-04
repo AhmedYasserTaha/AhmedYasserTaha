@@ -1,9 +1,6 @@
 <h1 align="center">Welcome to My Profile! 🌟</h1>
-<h3 align="center">I'm Ahmed Yasser, a passionate Flutter Developer 🚀</h3>
+<h3 align="center">I'm Ahmed Yasser, Mobile Developer "Flutter" 🚀</h3>
 
-<p align="center">
-    I'm currently working on an innovative <b>News App</b>. I have successfully developed two applications: <b>Todo App</b> and <b>Islami App</b>, showcasing my ability to create practical and user-friendly mobile solutions.
-</p>
 
 ---
 
