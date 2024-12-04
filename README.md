@@ -26,13 +26,17 @@
 - **Description**: A mobile app that brings the latest news from various categories like Sports, Technology, Politics, and Entertainment. It provides real-time notifications and multi-language support.
 - **Technologies Used**: Flutter, Dart, Firebase, REST APIs.
 
-### **[Todo App 📋](https://github.com/your-username/Todo-App)**  
+### **[Todo App 📋](https://github.com/AhmedYasserTaha/Todo-App)**  
 - **Description**: A simple and effective Todo List app to manage tasks and improve productivity.  
 - **Technologies Used**: Flutter, Dart, Firebase.
 
-### **[Islami App 🕌](https://github.com/your-username/Islami-App)**  
+### **[Islami App 🕌](https://github.com/AhmedYasserTaha/Islami-App)**  
 - **Description**: An Islamic app that provides users with daily prayers, Quran verses, and other religious content.  
 - **Technologies Used**: Flutter, Dart, Firebase.
+
+### **[XO App ❌⭕](https://github.com/AhmedYasserTaha/XO-App)**  
+- **Description**: A simple and fun mobile game based on the classic Tic-Tac-Toe game (XO). Users can play against each other or with the AI.  
+- **Technologies Used**: Flutter, Dart.
 
 ---
 
