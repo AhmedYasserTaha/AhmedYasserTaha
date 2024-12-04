@@ -15,12 +15,15 @@
 
 ---------
 **Concepts:**
+
 ![OOP](https://img.icons8.com/color/48/000000/idea.png)        ![API](https://img.icons8.com/color/48/000000/api.png) 
 
+---------
 **Tools & Technologies:**
+
 ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)        ![Git](https://img.icons8.com/color/48/000000/git.png)        ![GitHub](https://img.icons8.com/color/48/000000/github.png) 
 
----
+---------
 
 ## 📱 My Projects
 
