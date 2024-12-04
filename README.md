@@ -9,9 +9,8 @@
 
 ## 🛠️ Technologies & Skills
 
-**Languages & Frameworks I Work With:**
-
- ![Flutter](https://img.icons8.com/color/48/000000/flutter.png)        ![Dart](https://img.icons8.com/color/48/000000/dart.png)        ![Android](https://img.icons8.com/ios/50/000000/android.png)        ![iOS](https://img.icons8.com/color/48/000000/ios-logo.png)          ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) 
+**Languages & Frameworks I Work With:**                    
+                                             ![Flutter](https://img.icons8.com/color/48/000000/flutter.png)        ![Dart](https://img.icons8.com/color/48/000000/dart.png)        ![Android](https://img.icons8.com/ios/50/000000/android.png)        ![iOS](https://img.icons8.com/color/48/000000/ios-logo.png)          ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) 
 
 ---------
 **Concepts:**
