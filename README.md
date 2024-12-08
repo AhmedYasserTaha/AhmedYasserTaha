@@ -34,12 +34,7 @@
 </div>
 <br>
 
-## 🏆 Featured Projects:
-- 📱 **[Weather App](https://github.com/AhmedYasserTaha/weather-app)**: A real-time weather app using API.  
-- 📝 **[Todo App](https://github.com/AhmedYasserTaha/todo-app)**: A task management app with Flutter.  
-- 🌟 **[Islami App](https://github.com/AhmedYasserTaha/islami-app)**: Islamic resources app with clean UI.  
 
-<br>
 
 ## 📞 Connect with Me:
 
