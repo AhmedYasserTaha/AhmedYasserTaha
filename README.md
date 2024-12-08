@@ -34,6 +34,10 @@
 </div>
 <br>
 
+## 🏆 Featured Projects:
+- 📱 **[Weather App](https://github.com/AhmedYasserTaha/weather-app)**: A real-time weather app using API.  
+- 📝 **[Todo App](https://github.com/AhmedYasserTaha/todo-app)**: A task management app with Flutter.  
+- 🌟 **[Islami App](https://github.com/AhmedYasserTaha/islami-app)**: Islamic resources app with clean UI.  
 
 <br>
 
@@ -42,10 +46,10 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/ahmed-yasser-913678335/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-    <a href="https://ahmedyasser.me" alt="Website">
-        <img src="https://img.shields.io/badge/-My+Website-242424?style=for-the-badge&logo=circle&logoColor=White" /></a>
     <a href="https://wa.me/201010374459" alt="WhatsApp">
         <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+    <a href="mailto:ayt614614@gmail.com" alt="Gmail">
+        <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br>
@@ -56,5 +60,5 @@
 
 <br>
 
-## ⭐️ Fun Fact:
-I love collaborating on creative projects and exploring new technologies. Always excited to learn and grow! 🚀
+## ❤️ Support:
+If you like my work, feel free to ⭐ my repositories or reach out for collaboration!
