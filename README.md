@@ -1,48 +1,45 @@
-<h1 align="center">Welcome to My Profile! 🌟</h1>
-<h3 align="center">I'm Ahmed Yasser, Mobile Developer "Flutter" 🚀</h3>
 
 
----
-
-## 🛠️ Technologies & Skills
-
-**Languages & Frameworks I Work With:**                    
-  ![Flutter](https://img.icons8.com/color/48/000000/flutter.png)        ![Dart](https://img.icons8.com/color/48/000000/dart.png)        ![Android](https://img.icons8.com/ios/50/000000/android.png)        ![iOS](https://img.icons8.com/color/48/000000/ios-logo.png)          ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) 
 
 
----------
-**Tools & Technologies:**
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohamed+Essam!;+Wellcom!;" />
+</div>
 
-![Firebase](https://img.icons8.com/color/48/000000/firebase.png)        ![Git](https://img.icons8.com/color/48/000000/git.png)        ![GitHub](https://img.icons8.com/color/48/000000/github.png)  ![OOP](https://img.icons8.com/color/48/000000/idea.png)        ![API](https://img.icons8.com/color/48/000000/api.png) 
+<br>
+<!-- <h3 align="center">Flutter Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
----------
+##  About Me:
+-  I’m working as a **Software Engineer 💻** | **Mobile Application Developer 📱** .
 
-## 📱 My Projects
+-  I’m learning **Advanced Flutter Developer** and **Android Developer**  .
 
-### **News App 📰** *(In Progress)*  
-- **Description**: A mobile app that brings the latest news from various categories like Sports, Technology, Politics, and Entertainment. It provides real-time notifications and multi-language support.
-- **Technologies Used**: Flutter, Dart, Firebase, REST APIs.
+-  Apprendre l’arabe Temps libre **Machine Learning** .
 
-### **[Todo App 📋](https://github.com/AhmedYasserTaha/Todo-App)**  
-- **Description**: A simple and effective Todo List app to manage tasks and improve productivity.  
-- **Technologies Used**: Flutter, Dart, Firebase.
+-  All of my projects are available at **[My Repository](https://github.com/Mohamed-Essam-Mohamed?tab=repositories)**.
 
-### **[Islami App 🕌](https://github.com/AhmedYasserTaha/Islami-App)**  
-- **Description**: An Islamic app that provides users with daily prayers, Quran verses, and other religious content.  
-- **Technologies Used**: Flutter, Dart, Firebase.
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
-### **[XO App ❌⭕](https://github.com/AhmedYasserTaha/XO-App)**  
-- **Description**: A simple and fun mobile game based on the classic Tic-Tac-Toe game (XO). Users can play against each other or with the AI.  
-- **Technologies Used**: Flutter, Dart.
+## 🚀 Languages and Tools:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,java,python" />
+    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman" /><br>
+</div>
 
----
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
-## 👨‍💻 About Me
-
-- 💼 **Experience**: 1 year of Flutter development experience.    
 
 
----
+
 
 ## 📞 Connect with Me
 
