@@ -3,7 +3,7 @@
 
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohamed+Essam!;+Wellcom!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Yasser!;+Wellcom!;" />
 </div>
 
 <br>
@@ -17,7 +17,7 @@
 
 -  Apprendre l’arabe Temps libre **Machine Learning** .
 
--  All of my projects are available at **[My Repository](https://github.com/Mohamed-Essam-Mohamed?tab=repositories)**.
+-  All of my projects are available at **[My Repository](https://github.com/AhmedYasserTaha?tab=repositories)**.
 
 <br>
 <div align="center">
