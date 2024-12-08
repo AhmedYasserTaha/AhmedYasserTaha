@@ -18,12 +18,9 @@
 
 ## 🚀 Languages and Tools:
 
-### Programming Languages:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,dart,python" />
-</div>
 
-### Frameworks & Tools:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,firebase,androidstudio,vscode,figma,postman,github" />
 </div>
