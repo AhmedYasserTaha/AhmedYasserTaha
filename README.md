@@ -20,10 +20,12 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,dart" />
+</div>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,firebase,androidstudio,vscode,figma,postman,github" />
+    <img src="https://skillicons.dev/icons?i=flutter,firebase,androidstudio,vscode,figma,postman,github,api,ios" />
 </div>
+
 
 <br>
 <div align="center">
