@@ -20,12 +20,9 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,dart" />
-</div>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,firebase,androidstudio,vscode,figma,postman,github" />
-    <img src="https://img.icons8.com/ios-filled/50/000000/api.png" alt="API" width="50" height="50" />
-    <img src="https://img.icons8.com/ios/50/000000/ios-logo.png" alt="iOS" width="50" height="50" />
 </div>
 
 
