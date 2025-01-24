@@ -42,7 +42,7 @@
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
     <a href="https://wa.me/201010374459" alt="WhatsApp">
         <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-    <a href="mailto:ayt614614@gmail.com" alt="Gmail">
+    <a href="mailto:ahmed.yasser.taha10@gmail.com" alt="Gmail">
         <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
