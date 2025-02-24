@@ -20,18 +20,22 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,dart" />
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,firebase,androidstudio,vscode,figma,postman,github" />
 </div>
 
-
-
-<br>
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+    <img src="https://skillicons.dev/icons?i=flutter,firebase,androidstudio,vscode,figma,postman,github,git" />
 </div>
-<br>
+
+### 🔥 Concepts & Methodologies:
+- Object-Oriented Programming (OOP)
+- BLoC State Management
+- GetX State Management
+- SOLID Principles
+- Design Patterns
+
+
+
+
 
 
 
