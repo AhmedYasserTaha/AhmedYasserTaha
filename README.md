@@ -42,7 +42,7 @@
 ## 📞 Connect with Me:
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/ahmed-yasser-913678335/" alt="LinkedIn">
+    <a href="https://www.linkedin.com/in/ahmed-yasser-%F0%9F%8D%89-913678335/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
     <a href="https://wa.me/201010374459" alt="WhatsApp">
         <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
