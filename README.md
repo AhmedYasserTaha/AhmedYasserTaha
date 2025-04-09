@@ -28,10 +28,17 @@
 
 ### 🔥 Concepts & Methodologies:
 - Object-Oriented Programming (OOP)
-- BLoC State Management
-- GetX State Management
 - SOLID Principles
-- Design Patterns
+
+### 🏗️ Architectures:
+- Clean Architecture
+- MVVM Architecture
+- MVC Architecture
+
+### ⚙️ State Management:
+- BLoC
+- GetX
+
 
 
 
