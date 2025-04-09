@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,firebase,androidstudio,vscode,figma,postman,github,git" />
+    <img src="https://skillicons.dev/icons?i=flutter,firebase,androidstudio,vscode,figma,xd,postman,github,git" />
 </div>
 
 ### 🔥 Concepts & Methodologies:
